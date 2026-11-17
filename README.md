@@ -41,18 +41,6 @@
   <a href="mailto:aya.moussa@essai.ucar.tn"><img alt="Email" src="https://img.shields.io/badge/Email-D63384?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-### 📊 Statistiques GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=moussaya&show_icons=true&theme=tokyonight&title_color=9d4edd&icon_color=d63384&hide_border=true&bg_color=00000000&count_private=true&locale=fr" alt="Statistiques GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moussaya&layout=compact&theme=tokyonight&title_color=9d4edd&hide_border=true&bg_color=00000000&langs_count=8&locale=fr" alt="Langages principaux" />
-</p>
-
-### 📈 Graphe de contributions
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=moussaya&bg_color=00000000&color=9d4edd&line=d63384&point=c9d1d9&area=true&hide_border=true" alt="Graphe de contributions" />
-</p>
 
 ---
 
